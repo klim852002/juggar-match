@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/klim852002/juggar-match#readme",
   "dependencies": {
+    "body-parser": "^1.18.1",
+    "ejs": "^2.5.7",
     "express": "^4.15.4"
   }
 }
